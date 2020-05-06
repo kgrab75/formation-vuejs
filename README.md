@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # real-world-vue
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# formation-vuejs
+>>>>>>> b00ae3ece741ed732cbd9b74c52fddec8afbea03
