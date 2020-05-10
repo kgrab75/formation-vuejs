@@ -4,7 +4,9 @@
       <!-- <use v-bind="{ 'xlink:href': '/feather-sprite.svg#' + name }" /> -->
       <use v-bind:xlink:href="'/feather-sprite.svg#' + name" />
     </svg>
-    <span><slot></slot></span>
+    <span>
+      <slot></slot>
+    </span>
   </div>
 </template>
 
